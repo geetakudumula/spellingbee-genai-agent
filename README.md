@@ -1,4 +1,4 @@
-# 🐝 Spelling Bee Quiz Agent — DigitalOcean GenAI
+# 🐝 Spelling Bee Quiz Agent — Powered By DigitalOcean GenAI
 
 A personalized spelling bee tutor built using DigitalOcean’s GenAI platform and Llama 3.3 Instruct (70B). This project helps quiz students from a 1000-word spelling list—ordered from toughest to easiest—while optionally giving definitions, origins, and sentence usage.
 
@@ -28,30 +28,6 @@ A personalized spelling bee tutor built using DigitalOcean’s GenAI platform an
 ---
 
 ## 📂 Project Structure
-
-
-# 🧠 Spelling Bee Quiz Agent — Powered by DigitalOcean GenAI
-
-A custom GenAI agent built on DigitalOcean's GenAI platform that quizzes spelling bee students from a curated 1000-word list. Designed for educational use, this agent adapts to the child's progress and quizzes from hardest to easiest words.
-
-## 🚀 Features
-
-- Loads domain-specific knowledge from a 1000-word `.xlsx` file
-- Quizzes 5 hard words per round and progressively eases the difficulty
-- Offers definitions, language of origin, and usage in sentence (on request)
-- Optionally tracks correctness and gives feedback per round
-- Switches to vocabulary-based quiz mode when asked
-
-## 🧰 Tech Stack
-
-- **DigitalOcean GenAI Platform**
-- **Llama 3.3 Instruct (70B)**
-- **OpenSearch Vector Indexing**
-- Knowledge Base from `.xlsx` file
-- (Optional) Public endpoint for frontend/web embedding
-
-## 🗂️ Folder Structure
-
 ```bash
 📁 spellingbee-genai-agent
 │
