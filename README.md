@@ -1,4 +1,6 @@
 # 🐝 Spelling Bee Quiz Agent — Powered By DigitalOcean GenAI
+test
+---
 A personalized spelling bee tutor built using DigitalOcean’s GenAI platform and Llama 3.3 Instruct (70B). This project helps quiz students from a 1000-word spelling list—ordered from toughest to easiest—while optionally giving definitions, origins, and sentence usage.
 
 ---
