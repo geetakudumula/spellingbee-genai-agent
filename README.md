@@ -57,7 +57,7 @@ A custom GenAI agent built on DigitalOcean's GenAI platform that quizzes spellin
 │
 ├── 📄 README.md
 ├── 📄 instructions.txt       # Agent prompt instructions
-├── 📊 2025R02SSB_Praveen.xlsx  # Spelling word list
+├── 📊 1000_spellings.xlsx  # Spelling word list
 └── 💡 playground_tests.md    # Sample prompt tests
 
 ```
