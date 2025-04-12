@@ -62,3 +62,6 @@ A custom GenAI agent built on DigitalOcean's GenAI platform that quizzes spellin
 
 ```
 
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/7d6a9486-785c-4af3-9723-26f1f4dc12ef" />
+
+
