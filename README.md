@@ -10,7 +10,7 @@ A personalized spelling bee tutor built using DigitalOcean’s GenAI platform an
 - ✅ Progresses from hardest to easiest
 - ✅ Provides definitions, origin, and usage (on request)
 - ✅ Vocabulary-only quiz mode available
-- ✅ Tested in GenAI Playground with real-time prompt execution
+- ✅ Tested in GenAI Playground with realtime prompt execution
 
 ---
 
